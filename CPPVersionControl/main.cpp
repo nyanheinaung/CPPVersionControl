@@ -1,7 +1,13 @@
 #include <iostream>
+
+void greet()
+{
+	//Print some text
+	std::cout << "Welcome\n\n\n";
+}
 int main() 
 {
-	std::cout << "Main Function \n\n";
-	//turn the below line into comment for commit test
-//	std::cout << "Test for Commit \n\n";
+	//commit to solve conflict
+	greet();
+	
 }
