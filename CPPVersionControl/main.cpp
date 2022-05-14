@@ -7,6 +7,7 @@ void greet()
 }
 int main() 
 {
+	//conflict arising exercise
 	greet();
 	
 }
