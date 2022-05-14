@@ -7,6 +7,7 @@ void greet()
 }
 int main() 
 {
+	//commit to prove conflict
 	greet();
 	
 }
